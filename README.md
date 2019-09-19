@@ -1,7 +1,7 @@
 The aim of this project is to perform Multichannel Source Separation with the Projected Gradient algorithm.
 
 The cost function is the negative log-likelihood of the standard complex Gaussian model formulation [1].
-It can be generalized to any cost function, such as the quadratic cost. This is the strength of the approach 
+It can be generalized to any cost function, such as the quadratic cost (in the demo notebook). This is the strength of the approach 
 compared to model based approaches.
 The gradients are not straightforward to obtain "by hand".
 

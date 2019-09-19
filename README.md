@@ -10,7 +10,9 @@ Currently only the instantaneous case is implemented.
 The case of a complex, frequency dependent, mixing matrix is less straightforward 
 (related to the gradient descent of a complex matrix).
 
-ELB
+A jupyter notebook with a demo is in demo/demo_C_Mae.ipynb
+
+ELB - 09/2019
 
 [1] A. Ozerov and C. Févotte, 
 "Multichannel nonnegative matrix factorization in convolutive mixtures for audio source separation," 
